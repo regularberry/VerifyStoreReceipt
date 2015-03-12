@@ -33,5 +33,5 @@ Any measures to make your app cracker proof.
 
   s.public_header_files = 'Pod/Classes/*.h'
   s.frameworks = 'StoreKit', 'Security'
-  s.dependency 'OpenSSL-Universal', '1.0.1.j'
+  s.dependency 'OpenSSL-Universal', '1.0.1.k'
 end
